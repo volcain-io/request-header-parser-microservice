@@ -1,0 +1,23 @@
+{
+  "name": "parser-microservice",
+  "version": "1.0.0",
+  "description": "A request header parser microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volcain-io/request-header-parser-microservice.git"
+  },
+  "author": "volcain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volcain-io/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/volcain-io/request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
