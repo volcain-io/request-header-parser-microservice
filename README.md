@@ -10,5 +10,10 @@ https://polar-tundra-63559.herokuapp.com/api/whoami
 
 Example output:
 ```
-{"ipaddress":"43.180.55.228","language":"en-US","software":"X11; Linux x86_64"}
+{
+  "ipaddress": "43.180.55.228",
+  "language": "en-US",
+  "software": "X11; Linux x86_64"
+}
+
 ```
