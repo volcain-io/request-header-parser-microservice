@@ -5,7 +5,7 @@ A request header parser microservice based on Node.js
 
 Example usage:
 ```
-https://polar-tundra-63559.herokuapp.com/api/whoami
+https://parser-microservice.herokuapp.com/api/whoami
 ```
 
 Example output:
